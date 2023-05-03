@@ -40,6 +40,10 @@
         <br>
         <input class="btn" type="submit" name="register" value="Enviar">
     </form>
+
+    <?php
+    include("registrar.php");
+    ?>
     
     </body>
 </html>
